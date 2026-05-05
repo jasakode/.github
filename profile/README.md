@@ -27,7 +27,7 @@ We share our daily engineering challenges and deep-dives into internet protocols
 - **Website:** [jasakode.com](https://jasakode.com)
 - **Staging/Lab:** [jasakode.dev](https://jasakode.dev)
 - **LinkedIn:** [linkedin.com/company/jasakode](https://linkedin.com/company/jasakode)
-- **Email:** [hello@jasakode.com](mailto:hello@jasakode.com)
+- **Email:** [info@jasakode.com](mailto:hello@jasakode.com)
 
 ---
 *"Engineering with precision, delivering with performance."*
